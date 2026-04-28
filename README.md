@@ -273,8 +273,8 @@ ping 10.8.0.1
 **Prabhu R**
 IT Support Engineer | Linux & Networking Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prabhu-r-043559231)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Prabhu200425)
 
 ---
 
